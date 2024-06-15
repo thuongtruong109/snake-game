@@ -268,7 +268,7 @@ public class Frame extends JPanel {
 		timer = new Timer(DELAY, (ActionListener) this);
 		timer.start();
 	}
-	public static void main(String[] args) {
-				new Frame();
+	public static void Main(String[] args) {
+		new Frame();
 	}
 }

@@ -22,9 +22,6 @@ import files.DownLoad;
 import files.Write;
 import root.Root;
 
-/**
- * @author https://www.github.com/thuongtruong1009
- */
 public class CustomerPane extends JOptionPane {
 	private static final long serialVersionUID = 1L;
 

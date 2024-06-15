@@ -2,18 +2,15 @@ package root;
 
 import javax.swing.ImageIcon;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class Root {
         // meta data
-        public String author = "https://github.com/thuongtruong1009";
+        public String author = "https://github.com/thuongtruong109/snake-game";
         public String version = "v8.0 (user setup)";
         public String date = "Wednesday, 3 November 2021";
         public String language = "JavaSwing";
         public String JDK = "14x";
         public String OS = "Window_NT x64 10.0";
-        public String frameTitle = "Snake Game OOP";
+        public String frameTitle = "Snake Game";
         public int PANEL_WIDTH = 600;
         public int PANEL_HEIGHT = 600;
 

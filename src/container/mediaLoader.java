@@ -7,9 +7,6 @@ import javax.imageio.ImageIO;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class mediaLoader {
 	public static BufferedImage loadImage(String mainImage) {
 		try {

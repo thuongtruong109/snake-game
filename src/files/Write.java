@@ -12,9 +12,6 @@ import container.Frame;
 import container.GamePanel;
 import utils.DeviceInfo;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class Write {
     private final static ArrayList<Item> items = new ArrayList<>();
     private static final DefaultListModel<String> listOfProduct = new DefaultListModel<String>();

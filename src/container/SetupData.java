@@ -10,9 +10,6 @@ import javax.swing.JPanel;
 
 import files.Write;
 
-/**
- * @author https://www.github.com/thuongtruong1009
- */
 public class SetupData extends JFrame {
 	Write writeFile = new Write();
 	private static final long serialVersionUID = 1L;

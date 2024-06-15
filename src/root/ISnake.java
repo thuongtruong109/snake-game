@@ -1,7 +1,5 @@
 package root;
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
+
 public interface ISnake {
     void setHeight(int height);
     void setWidth(int width);

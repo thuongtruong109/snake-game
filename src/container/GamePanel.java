@@ -31,9 +31,6 @@ import java.util.Date;
 import java.util.Random;
 import java.util.Timer;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class GamePanel extends Frame implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	Root root = new Root();

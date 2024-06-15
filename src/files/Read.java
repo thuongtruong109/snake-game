@@ -7,9 +7,6 @@ import java.io.IOException;
 
 import root.Root;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class Read {
     public static final String fileURL = "./src/files/dataScore.txt";
     Root root = new Root();

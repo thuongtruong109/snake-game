@@ -5,9 +5,6 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
-/**
- * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
- */
 public class DeviceInfo {
     private String socketIP;
     private static InetAddress systemIP;
