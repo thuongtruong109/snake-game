@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/License-ECL 2.0-pink">
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thuongtruong1009/Snake-Game-OOP?color=87CEFA)
 
-<div align="center" display="flex">
-  <h1>SNAKE GAME OOP</h1>
+<div align="center">
+  <h1>SNAKE GAME</h1>
   <img border="1px solid green" width="160" src="https://user-images.githubusercontent.com/71834167/133915546-a6c6f29c-0c82-422b-a9cd-ed7aafbc2842.png" alt="snake_image"/>
 </div>
 
@@ -126,7 +126,7 @@ docker pull thuongtruong1009/snake-game-oop
 
 ## 📰 [License](LICENSE)
 + ##### This project is distributed under the [ECL-2.0 License](LICENSE).
-+ ##### Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
++ ##### Copyright of [@thuongtruong109](https://github.com/thuongtruong109), 2021.
 
 
 <!-- background.png: https://i3.ytimg.com/vi/UpGCxdTXfSY/hqdefault.jpg
